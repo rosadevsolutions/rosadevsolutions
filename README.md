@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">EXPERIÊNCIA: Desenvolvimento Web voltado a Lojas nas Plataformas de E-Commerce VTex FastStore, VTex IO e VTex CMS.<br>Vasta experiência junto aos segmentos de varejo, moda/vestuário e agências digitais, atendendo clientes de todos os portes nacionais e LATAM. <br>Go live, desenvolvimento de novas stacks, on going e correção de bugs no Front-End e em Lojas VTex.</p>
+<p align="left">EXPERIÊNCIA: Desenvolvimento Web voltado a Lojas nas Plataformas de E-Commerce VTex FastStore, VTex IO e VTex CMS.<br>Vasta experiência junto aos segmentos de varejo, moda/vestuário e agências digitais, atendendo clientes de todos os portes nacionais e LATAM. Go live, desenvolvimento de novas stacks, on going e correção de bugs no Front-End e em Lojas VTex.</p>
 
 ###
 
@@ -59,10 +59,11 @@
   <img width="12" />
 </div>
 
+###
+
 <br clear="both">
 
 <div align="left">
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket logo"  />
