@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">PERFIL: Desenvolvedor Front-End em transição para FullStack até o fim de 2025.<br>Conhecimentos complementares em UX//UI, Webdesign, SEO, E-Commerce, Back-End, Bancos de Dados Relacionais.</p>
+<p align="left">PERFIL: Desenvolvedor Front-End em transição para FullStack até o fim de 2025.<br>Conhecimentos complementares em Back-End, Bancos de Dados Relacionais, E-Commerce, UX//UI, Webdesign, SEO.</p>
 
 ###
 
